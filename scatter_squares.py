@@ -16,5 +16,4 @@ ax.set_ylabel("Square of Value", fontsize=14)
 #目盛りラベルのサイズを設定する
 ax.tick_params(axis='both', which='major', labelsize=14)
 
-
 plt.show()
